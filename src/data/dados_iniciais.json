@@ -1,0 +1,136 @@
+{
+  "categorias": [
+    {
+      
+      "titulo": "Diário de um programador",
+      "cor": "#ED29D8",
+      
+      "videos": [
+        {
+          "titulo": "O que faz uma programador? #HostGatorBrasil",
+          "url": "https://youtu.be/PXj7pQR4Nbo?list=PLVc5bWuiFQ8FE411c_02iK_gmIzPaJ_vp"
+        },
+        {
+          "titulo": "O que é API?",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=3"
+        },
+        {
+          "titulo": "O que é Cache?",
+          "url": "https://www.youtube.com/watch?v=I8iGQjKGjDA&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=9"
+        },
+        {
+          "titulo": "O que é Conteiner?",
+          "url": "https://www.youtube.com/watch?v=-pUZBovqRcU&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=17"
+        },
+        {
+          "titulo":"O que é 2AF?",
+          "url": "https://www.youtube.com/watch?v=s9gXjaatFNM&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=1"
+        },
+        {
+          "titulo":"O que é Debug?",
+          "url": "https://www.youtube.com/watch?v=Wnb02kzc0Cw&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=25"
+        },
+        {
+          "titulo":"O que é Deploy?",
+          "url": "https://www.youtube.com/watch?v=gJw7l2JKpuQ&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=28"
+        }            
+      ]
+    },
+    {
+      
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Viva - A vida é uma festa",
+          "url": "https://www.youtube.com/watch?v=iLmZZV-Nkuk"
+        },
+        {
+          "titulo": "Moana",
+          "url": "https://www.youtube.com/watch?v=XL4Tf1Eohv8"
+        },
+        {
+          "titulo": "Django Livre",
+          "url": "https://www.youtube.com/watch?v=0fUCuvNlOCg"
+        },
+        {
+          "titulo": "1408",
+          "url": "https://www.youtube.com/watch?v=WIASqPZqnhs"
+        }
+      ]
+    }
+  ]
+}
